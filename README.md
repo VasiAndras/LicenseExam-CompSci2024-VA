@@ -22,8 +22,11 @@ Köszönöm, hogy megtekintetted a munkámat! Ha bármilyen kérdésed van lépj
 <b>Vasi András</b>
 
 Sapientia - EMTE Marosvásárhelyi kar
+
 Marosvásárhely/Koronka,  Calea Sighișoarei nr. 2.
+
 Postacím: 540485 Târgu-Mureş, O.p. 9, C.p. 4
+
 E-mail: vasi.andras@student.ms.sapientia.ro
 
 # [ENG]
@@ -49,8 +52,11 @@ Thank you for viewing my work! If you have any questions, feel free to contact m
 <b>András Vasi</b>
 
 Sapientia - EMTE Marosvásárhely Campus
+
 Marosvásárhely/Koronka, Calea Sighișoarei nr. 2.
+
 Postal address: 540485 Târgu-Mureş, O.p. 9, C.p. 4
+
 Email: vasi.andras@student.ms.sapientia.ro
 
 
