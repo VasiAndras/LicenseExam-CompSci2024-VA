@@ -1,14 +1,14 @@
-[HUN]
+# [HUN]
 
 Ez a repository tartalmazza a <b>VASI ANDRÁS (SZÁMÍTÁSTECHNIKA SZAK - SAPIENTIA EMTE - MAROSVÁSÁRHELYI KAR [2020 - 2024])</b> által készített államvizsga (diploma) dolgozat forráskódját. Itt található <b>Kézfej erezet szkenner</b> című dolgozathoz kapcsolodó dokumentáció és forráskód, a kutatási és fejlesztései eredmények, illetve a téma által elért eredmények különböző diák konferenciákon.
 
-# Tartalomjegyzék
+## Tartalomjegyzék
 
 - src/: A fő forráskód könyvtár, amely tartalmazza a projekt minden szükséges komponensét és modulját.
 - docs/: Dokumentáció, ami részletesen leírja a projekt céljait, felépítését és használatát
 - README.md: A projekt rövid bemutatása és fontosabb információk.
 
-# Hogyan használd?
+## Hogyan használd?
 1. Klónozd a repository-t a saját gépedre:
 ```bash
 git clone https://github.com/VasiAndras/LicenseExam-CompSci2024-VA.git
@@ -18,23 +18,23 @@ git clone https://github.com/VasiAndras/LicenseExam-CompSci2024-VA.git
 
 Köszönöm, hogy megtekintetted a munkámat! Ha bármilyen kérdésed van lépj velem kapcsolatba:
 
-## Kapcsolat:
+### Kapcsolat:
 Vasi András
 Sapientia - EMTE Marosvásárhelyi kar
 Marosvásárhely/Koronka,  Calea Sighișoarei nr. 2.
 Postacím: 540485 Târgu-Mureş, O.p. 9, C.p. 4
 E-mail: vasi.andras@student.ms.sapientia.ro
 
-[ENG]
+# [ENG]
 
 This repository contains the source code for the thesis of <b>ANDRÁS VASI (COMPUTER SCIENCE - SAPIENTIA EMTE - MAROSVÁSÁRHELY CAMPUS [2020 - 2024])</b>. Here you can find the documentation and source code related to the thesis titled <b>Hand Vein Scanner</b>, including research and development results, as well as achievements presented at various student conferences.
 
-Table of Contents
+## Table of Contents
 - src/: The main source code directory containing all necessary components and modules of the project.
 - docs/: Documentation detailing the project's goals, structure, and usage.
 - README.md: A brief introduction and key information about the project.
 
-# How to Use?
+## How to Use?
 1. Clone the repository to your local machine:
 ```bash
 git clone https://github.com/VasiAndras/LicenseExam-CompSci2024-VA.git
@@ -44,7 +44,7 @@ git clone https://github.com/VasiAndras/LicenseExam-CompSci2024-VA.git
 4. 
 Thank you for viewing my work! If you have any questions, feel free to contact me:
 
-## Contact:
+### Contact:
 András Vasi
 Sapientia - EMTE Marosvásárhely Campus
 Marosvásárhely/Koronka, Calea Sighișoarei nr. 2.
