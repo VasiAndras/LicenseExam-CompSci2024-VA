@@ -1,6 +1,6 @@
 # [HUN]
 
-Ez a repository tartalmazza a <b>VASI ANDRÁS (SZÁMÍTÁSTECHNIKA SZAK - SAPIENTIA EMTE - MAROSVÁSÁRHELYI KAR [2020 - 2024])</b> által készített államvizsga (diploma) dolgozat forráskódját. Itt található <b>Kézfej erezet szkenner</b> című dolgozathoz kapcsolodó dokumentáció és forráskód, a kutatási és fejlesztései eredmények, illetve a téma által elért eredmények különböző diák konferenciákon.
+Ez a repository tartalmazza a <b>VASI ANDRÁS (SZÁMÍTÁSTECHNIKA SZAK - SAPIENTIA EMTE - MAROSVÁSÁRHELYI KAR [2020 - 2024])</b> által készített államvizsga (diploma) dolgozatát. Itt található <b>Kézfej erezet szkenner</b> című dolgozathoz kapcsolodó dokumentáció és forráskód, a kutatási és fejlesztései eredmények, illetve a téma által elért eredmények különböző diák konferenciákon.
 
 ## Tartalomjegyzék
 
@@ -27,7 +27,7 @@ E-mail: vasi.andras@student.ms.sapientia.ro
 
 # [ENG]
 
-This repository contains the source code for the thesis of <b>ANDRÁS VASI (COMPUTER SCIENCE - SAPIENTIA EMTE - MAROSVÁSÁRHELY CAMPUS [2020 - 2024])</b>. Here you can find the documentation and source code related to the thesis titled <b>Hand Vein Scanner</b>, including research and development results, as well as achievements presented at various student conferences.
+This repository contains the thesis of <b>ANDRÁS VASI (COMPUTER SCIENCE - SAPIENTIA EMTE - MAROSVÁSÁRHELY CAMPUS [2020 - 2024])</b>. Here you can find the documentation and source code related to the thesis titled <b>Hand Vein Scanner</b>, including research and development results, as well as achievements presented at various student conferences.
 
 ## Table of Contents
 - src/: The main source code directory containing all necessary components and modules of the project.
