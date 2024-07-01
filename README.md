@@ -19,7 +19,8 @@ git clone https://github.com/VasiAndras/LicenseExam-CompSci2024-VA.git
 Köszönöm, hogy megtekintetted a munkámat! Ha bármilyen kérdésed van lépj velem kapcsolatba:
 
 ### Kapcsolat:
-Vasi András
+<b>Vasi András</b>
+
 Sapientia - EMTE Marosvásárhelyi kar
 Marosvásárhely/Koronka,  Calea Sighișoarei nr. 2.
 Postacím: 540485 Târgu-Mureş, O.p. 9, C.p. 4
@@ -45,7 +46,8 @@ git clone https://github.com/VasiAndras/LicenseExam-CompSci2024-VA.git
 Thank you for viewing my work! If you have any questions, feel free to contact me:
 
 ### Contact:
-András Vasi
+<b>András Vasi</b>
+
 Sapientia - EMTE Marosvásárhely Campus
 Marosvásárhely/Koronka, Calea Sighișoarei nr. 2.
 Postal address: 540485 Târgu-Mureş, O.p. 9, C.p. 4
